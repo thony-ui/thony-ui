@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**thony-ui/thony-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thony-ui)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
